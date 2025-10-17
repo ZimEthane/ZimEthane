@@ -1,4 +1,3 @@
-# 👋 Hey, I'm <strong>ZimEthane</strong></h3>
 
 <!-- 🌊 BANNIÈRE -->
 <p align="center">
@@ -6,6 +5,7 @@
 </p>
 
 ---
+# 👋 Hey, I'm <strong>ZimEthane</strong></h3>
 
 ### 💡 Développeur curieux & passionné par l’automatisation
 
