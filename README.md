@@ -19,18 +19,51 @@ J’aime comprendre comment les choses fonctionnent en profondeur et créer des 
 - 💻 J’aime travailler sur des projets clairs et bien documentés  
 - ⚙️ J’apprends à maîtriser le Shell, Java, PHP, et les outils Linux  
 - 📚 Je m’intéresse à la qualité du code, à la lisibilité et à l’automatisation  
-- 🚀 Mon objectif : progresser chaque jour dans le développement backend & scripting  
+- 🚀 Mon objectif : progresser chaque jour dans le développement backend & scripting
+
+[💻PortFolio](https://portfolio-ethanezimmermann.fr/)
 
 ---
 
-## 🛠️ Stack & Outils
+<p align="center">
 
 | Catégorie | Technologies |
 |------------|--------------|
-| 💻 Langages | Shell, Java, PHP |
-| ⚙️ Outils | Git, Linux, VS Code |
-| 🧩 Concepts | Automatisation, scripts, pipelines, gestion de versions |
-| 🗂️ Autres | Markdown, documentation claire, organisation propre |
+| 💻 **Langages** | Shell · Java · PHP · JavaScript · C# · HTML/CSS |
+| 🗄️ **Base de données** | MySQL · NoSQL |
+| ⚙️ **Outils** | Git · Linux · VS Code · phpMyAdmin |
+| 🧩 **Concepts** | Automatisation · Scripts · Pipelines · Gestion de versions |
+| 🗂️ **Autres** | Markdown · Documentation claire · Organisation propre |
+
+</p>
+
+## 🛠️ Stack & Outils
+
+<p align="center">
+  <table>
+    <tr>
+      <td>💻 <strong>Langages</strong></td>
+      <td>Shell · Java · PHP · JavaScript · C# · HTML/CSS</td>
+    </tr>
+    <tr>
+      <td>🗄️ <strong>Base de données</strong></td>
+      <td>MySQL · NoSQL</td>
+    </tr>
+    <tr>
+      <td>⚙️ <strong>Outils</strong></td>
+      <td>Git · Linux · VS Code · phpMyAdmin</td>
+    </tr>
+    <tr>
+      <td>🧩 <strong>Concepts</strong></td>
+      <td>Automatisation · Scripts · Pipelines · Gestion de versions</td>
+    </tr>
+    <tr>
+      <td>🗂️ <strong>Autres</strong></td>
+      <td>Markdown · Documentation claire · Organisation propre</td>
+    </tr>
+  </table>
+</p>
+
 
 ---
 
@@ -60,7 +93,7 @@ J’aime comprendre comment les choses fonctionnent en profondeur et créer des 
 
 ---
 
-## 🧰 Commandes Shell favorites
+## 🧰 Commandes Shell
 
 ```bash
 # Compter les erreurs les plus fréquentes dans un log
