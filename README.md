@@ -42,11 +42,16 @@ J’aime comprendre comment les choses fonctionnent en profondeur et créer des 
 
 ## 📊 Statistiques GitHub
 
+<!-- 📊 GITHUB STATS -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZimEthane&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZimEthane&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZimEthane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00aaff&icon_color=00aaff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZimEthane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00aaff&text_color=c9d1d9"/>
 </div>
 
+<!-- ⚙️ FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:007acc,100:1a1a1a" />
+</p>
 
 ---
 
@@ -73,18 +78,4 @@ ls | tee fichiers.txt
   <samp>Minimalist developer • Tech enthusiast • Clean code enjoyer</samp>
 </p>
 
----
-
-<!-- 📊 GITHUB STATS -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZimEthane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00aaff&icon_color=00aaff&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZimEthane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00aaff&text_color=c9d1d9"/>
-</div>
-
----
-
-<!-- ⚙️ FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:007acc,100:1a1a1a" />
-</p>
 
