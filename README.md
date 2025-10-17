@@ -52,8 +52,8 @@ J’aime comprendre comment les choses fonctionnent en profondeur et créer des 
 
 ## 📂 Projets récents
 
-<!-- PROJETS_RECENTS:START -->
-<!-- PROJETS_RECENTS:END -->
+PROJETS_RECENTS:START
+PROJETS_RECENTS:END
 
 ---
 
