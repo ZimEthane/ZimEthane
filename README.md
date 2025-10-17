@@ -40,6 +40,15 @@ J’aime comprendre comment les choses fonctionnent en profondeur et créer des 
 
 ---
 
+## 📂 Projets récents
+
+![ZimEthane's GitHub Projects](https://github-readme-stats.vercel.app/api/pin/?username=ZimEthane&repo=holbertonschool-shell&theme=tokyonight)
+![ZimEthane's GitHub Projects](https://github-readme-stats.vercel.app/api/pin/?username=ZimEthane&repo=git-intro&theme=tokyonight)
+![ZimEthane's GitHub Projects](https://github-readme-stats.vercel.app/api/pin/?username=ZimEthane&repo=AP4-Amset&theme=tokyonight)
+![ZimEthane's GitHub Projects](https://github-readme-stats.vercel.app/api/pin/?username=ZimEthane&repo=AP3-Amset&theme=tokyonight)
+
+---
+
 ## 📊 Statistiques GitHub
 
 <!-- 📊 GITHUB STATS -->
@@ -52,15 +61,6 @@ J’aime comprendre comment les choses fonctionnent en profondeur et créer des 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:007acc,100:1a1a1a" />
 </p>
-
----
-
-## 📂 Projets récents
-
-![ZimEthane's GitHub Projects](https://github-readme-stats.vercel.app/api/pin/?username=ZimEthane&repo=holbertonschool-shell&theme=tokyonight)
-![ZimEthane's GitHub Projects](https://github-readme-stats.vercel.app/api/pin/?username=ZimEthane&repo=git-intro&theme=tokyonight)
-![ZimEthane's GitHub Projects](https://github-readme-stats.vercel.app/api/pin/?username=ZimEthane&repo=AP4-Amset&theme=tokyonight)
-![ZimEthane's GitHub Projects](https://github-readme-stats.vercel.app/api/pin/?username=ZimEthane&repo=AP3-Amset&theme=tokyonight)
 
 ---
 
