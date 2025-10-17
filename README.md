@@ -25,45 +25,18 @@ J’aime comprendre comment les choses fonctionnent en profondeur et créer des 
 
 ---
 
+## 🛠️ Stack & Outils
 <p align="center">
-
+  
 | Catégorie | Technologies |
 |------------|--------------|
-| 💻 **Langages** | Shell · Java · PHP · JavaScript · C# · HTML/CSS |
+| 💻 **Langages** | Shell · Java · PHP · JavaScript · C# · HTML/CSS · Markdown|
 | 🗄️ **Base de données** | MySQL · NoSQL |
-| ⚙️ **Outils** | Git · Linux · VS Code · phpMyAdmin |
+| ⚙️ **Outils** | Git · Linux · VS Code · phpMyAdmin · Xamp|
 | 🧩 **Concepts** | Automatisation · Scripts · Pipelines · Gestion de versions |
-| 🗂️ **Autres** | Markdown · Documentation claire · Organisation propre |
+| 🗂️ **Autres** | Documentation claire · Organisation propre |
 
 </p>
-
-## 🛠️ Stack & Outils
-
-<p align="center">
-  <table>
-    <tr>
-      <td>💻 <strong>Langages</strong></td>
-      <td>Shell · Java · PHP · JavaScript · C# · HTML/CSS</td>
-    </tr>
-    <tr>
-      <td>🗄️ <strong>Base de données</strong></td>
-      <td>MySQL · NoSQL</td>
-    </tr>
-    <tr>
-      <td>⚙️ <strong>Outils</strong></td>
-      <td>Git · Linux · VS Code · phpMyAdmin</td>
-    </tr>
-    <tr>
-      <td>🧩 <strong>Concepts</strong></td>
-      <td>Automatisation · Scripts · Pipelines · Gestion de versions</td>
-    </tr>
-    <tr>
-      <td>🗂️ <strong>Autres</strong></td>
-      <td>Markdown · Documentation claire · Organisation propre</td>
-    </tr>
-  </table>
-</p>
-
 
 ---
 
@@ -75,6 +48,12 @@ J’aime comprendre comment les choses fonctionnent en profondeur et créer des 
 | [git-intro](https://github.com/ZimEthane/git-intro) | Introduction à Git et aux commandes de versionnement | ⚙️ Shell |
 | [AP3-Amset](https://github.com/ZimEthane/AP3-Amset) | Application web collaborative (PHP) | 💻 PHP |
 | [AP4-Amset](https://github.com/ZimEthane/AP4-Amset) | Application Java – backend Amset | ☕ Java |
+
+
+## 📂 Projets récents
+
+<!-- PROJETS_RECENTS:START -->
+<!-- PROJETS_RECENTS:END -->
 
 ---
 
