@@ -34,11 +34,15 @@ jobs:
                 ) + " |"
               ')
 
-          TABLE="| Projet | Description | Langage |\n|--------|-------------|---------|\n$REPOS"
+          TABLE="| Projet | Description | Langage |
+|--------|-------------|---------|
+$REPOS"
 
           # Mettre à jour le README
-          sed -i "/<!-- RECENT_PROJECTS_START -->/,/<!-- RECENT_PROJECTS_END -->/c\
-<!-- RECENT_PROJECTS_START -->\n$TABLE\n<!-- RECENT_PROJECTS_END -->" README.md
+          sed -i "/<!-- RECENT_PROJECTS_START -->/,/<!-- RECENT_PROJECTS_END -->/c\\
+<!-- RECENT_PROJECTS_START -->\\
+$TABLE\\
+<!-- RECENT_PROJECTS_END -->" README.md
 
       - name: Commit & push changes
         run: |
