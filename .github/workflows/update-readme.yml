@@ -1,4 +1,4 @@
-name: Update README Projects
+name: Update Recent Projects
 
 on:
   schedule:
@@ -12,18 +12,18 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.x"
+      - name: Get latest 4 repos
+        run: |
+          REPOS=$(curl -s "https://api.github.com/users/ZimEthane/repos?sort=updated&per_page=4" \
+            | jq -r '.[] | "| [" + .name + "](" + .html_url + ") | " + (.description // "-") + " | " + (.language // "-") + " |"')
 
-      - name: Install dependencies
-        run: pip install requests
+          TABLE="| Projet | Description | Langage |\n|--------|-------------|---------|\n$REPOS"
 
-      - name: Update projects section
-        run: python update_projects.py
+          # Remplace dans README.md entre les tags
+          sed -i "/<!-- RECENT_PROJECTS_START -->/,/<!-- RECENT_PROJECTS_END -->/c\
+<!-- RECENT_PROJECTS_START -->\n$TABLE\n<!-- RECENT_PROJECTS_END -->" README.md
 
-      - name: Commit & push changes
+      - name: Commit & push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
