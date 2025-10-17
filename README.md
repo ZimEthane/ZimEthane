@@ -42,18 +42,8 @@ J’aime comprendre comment les choses fonctionnent en profondeur et créer des 
 
 ## 📂 Projets récents
 
-| Projet | Description | Langage |
-|---------|--------------|----------|
-| [holbertonschool-shell](https://github.com/ZimEthane/holbertonschool-shell) | Scripts & exercices d’apprentissage du shell | 🐚 Bash |
-| [git-intro](https://github.com/ZimEthane/git-intro) | Introduction à Git et aux commandes de versionnement | ⚙️ Shell |
-| [AP3-Amset](https://github.com/ZimEthane/AP3-Amset) | Application web collaborative (PHP) | 💻 PHP |
-| [AP4-Amset](https://github.com/ZimEthane/AP4-Amset) | Application Java – backend Amset | ☕ Java |
-
-
-## 📂 Projets récents
-
 ![ZimEthane's GitHub Projects](https://github-readme-stats.vercel.app/api/pin/?username=ZimEthane&repo=holbertonschool-shell&theme=tokyonight)
-![ZimEthane's GitHub Projects](https://github-readme-stats.vercel.app/api/pin/?username=ZimEthane&repo=/git-intro&theme=tokyonight)
+![ZimEthane's GitHub Projects](https://github-readme-stats.vercel.app/api/pin/?username=ZimEthane&repo=git-intro&theme=tokyonight)
 ![ZimEthane's GitHub Projects](https://github-readme-stats.vercel.app/api/pin/?username=ZimEthane&repo=AP4-Amset&theme=tokyonight)
 ![ZimEthane's GitHub Projects](https://github-readme-stats.vercel.app/api/pin/?username=ZimEthane&repo=AP3-Amset&theme=tokyonight)
 
