@@ -42,8 +42,11 @@ J’aime comprendre comment les choses fonctionnent en profondeur et créer des 
 
 ## 📊 Statistiques GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ZimEthane&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZimEthane&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZimEthane&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZimEthane&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
 
 ---
 
