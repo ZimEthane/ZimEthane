@@ -39,10 +39,12 @@ jobs:
 $REPOS"
 
           # Mettre à jour le README
-          sed -i "/<!-- RECENT_PROJECTS_START -->/,/<!-- RECENT_PROJECTS_END -->/c\\
+          # Remplace la ligne du sed par :
+sed -i "/<!-- RECENT_PROJECTS_START -->/,/<!-- RECENT_PROJECTS_END -->/c\\
 <!-- RECENT_PROJECTS_START -->\\
 $TABLE\\
 <!-- RECENT_PROJECTS_END -->" README.md
+
 
       - name: Commit & push changes
         run: |
