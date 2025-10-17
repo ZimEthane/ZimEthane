@@ -1,8 +1,19 @@
 # 👋 Salut, moi c’est ZimEthane
 
-![ZimEthane banner](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:2b2b2b,100:33ccff&text=ZimEthane%20💻&fontColor=e6faff&fontAlignY=40&animation=fadeIn)
+<!-- 🌊 BANNIÈRE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1a1a,100:007acc&text=ZimEthane%20💻&fontColor=ffffff&fontAlignY=40&fontSize=50&animation=fadeIn" />
+</p>
+
+---
 
 ### 💡 Développeur curieux & passionné par l’automatisation
+
+<!-- 💬 PRÉSENTATION -->
+<h3 align="center">👋 Hey, I'm <strong>ZimEthane</strong></h3>
+<p align="center">
+  <samp>Minimalist developer • Tech enthusiast • Clean code enjoyer</samp>
+</p>
 
 Je suis un **développeur en apprentissage constant**, passionné par la **programmation système**, les **scripts Shell**, et les **outils backend**.  
 J’aime comprendre comment les choses fonctionnent en profondeur et créer des solutions simples, efficaces et bien structurées.
@@ -57,25 +68,10 @@ J’aime comprendre comment les choses fonctionnent en profondeur et créer des 
 
 ## 🧰 Commandes Shell favorites
 
-#```bash
+```bash
 # Compter les erreurs les plus fréquentes dans un log
 cat fichier.log | grep "Erreur" | sort | uniq -c | sort -nr | head -10
 
 # Sauvegarder et afficher simultanément une sortie
 ls | tee fichiers.txt
-
-
----
-
-<!-- 🌊 BANNIÈRE -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1a1a,100:007acc&text=ZimEthane%20💻&fontColor=ffffff&fontAlignY=40&fontSize=50&animation=fadeIn" />
-</p>
-
-<!-- 💬 PRÉSENTATION -->
-<h3 align="center">👋 Hey, I'm <strong>ZimEthane</strong></h3>
-<p align="center">
-  <samp>Minimalist developer • Tech enthusiast • Clean code enjoyer</samp>
-</p>
-
 
