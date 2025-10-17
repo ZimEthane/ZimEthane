@@ -52,7 +52,10 @@ J’aime comprendre comment les choses fonctionnent en profondeur et créer des 
 
 ## 📂 Projets récents
 
+![ZimEthane's GitHub Projects](https://github-readme-stats.vercel.app/api/pin/?username=ZimEthane&repo=holbertonschool-shell&theme=tokyonight)
+![ZimEthane's GitHub Projects](https://github-readme-stats.vercel.app/api/pin/?username=ZimEthane&repo=/git-intro&theme=tokyonight)
 ![ZimEthane's GitHub Projects](https://github-readme-stats.vercel.app/api/pin/?username=ZimEthane&repo=AP4-Amset&theme=tokyonight)
+![ZimEthane's GitHub Projects](https://github-readme-stats.vercel.app/api/pin/?username=ZimEthane&repo=AP3-Amset&theme=tokyonight)
 
 ---
 
