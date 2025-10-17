@@ -52,11 +52,7 @@ J’aime comprendre comment les choses fonctionnent en profondeur et créer des 
 
 ## 📂 Projets récents
 
-<!-- PROJETS_RECENTS:START -->
-<!-- PROJETS_RECENTS:END -->
-
-
-
+![ZimEthane's GitHub Projects](https://github-readme-stats.vercel.app/api/pin/?username=ZimEthane&repo=AP4-Amset&theme=tokyonight)
 
 ---
 
