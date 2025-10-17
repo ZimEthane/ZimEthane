@@ -2,50 +2,32 @@ name: 🌀 Update README with latest projects
 
 on:
   schedule:
-    - cron: '0 12 * * *' # tous les jours à midi (UTC)
+    - cron: '0 12 * * *'  # tous les jours à midi UTC
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Fetch latest repositories
-        id: repos
-        uses: actions/github-script@v7
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          script: |
-            const username = 'ZimEthane';
-            const { data: repos } = await github.rest.repos.listForUser({
-              username,
-              sort: 'updated',
-              per_page: 4
-            });
-            const tableHeader = "| Projet | Description | Langage |\n|---------|--------------|----------|";
-            const rows = repos.map(r => {
-              const lang = r.language ? r.language : '—';
-              const emoji =
-                lang.toLowerCase().includes('php') ? '💻' :
-                lang.toLowerCase().includes('java') ? '☕' :
-                lang.toLowerCase().includes('shell') ? '⚙️' :
-                lang.toLowerCase().includes('bash') ? '🐚' :
-                '📁';
-              return `| [${r.name}](${r.html_url}) | ${r.description || '—'} | ${emoji} ${lang} |`;
-            });
-            const content = `${tableHeader}\n${rows.join('\n')}`;
-            return content;
+          python-version: '3.x'
 
-      - name: Update README
-        uses: devops-infra/action-update-file@v3
-        with:
-          file: README.md
-          commit-message: "🔄 Mise à jour automatique des projets récents"
-          content: |
-            ## 📂 Projets récents
+      - name: Install dependencies
+        run: pip install requests
 
-            <!-- PROJETS_RECENTS:START -->
-            ${{ steps.repos.outputs.result }}
-            <!-- PROJETS_RECENTS:END -->
+      - name: Update projects in README
+        run: |
+          python update_projects.py
+
+      - name: Commit & push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "🔄 Mise à jour automatique des projets récents" || echo "Pas de changements"
+          git push
