@@ -1,6 +1,6 @@
 # 👋 Salut, moi c’est ZimEthane
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:2b2b2b&height=200&text=ZimEthane%20💻&fontColor=00ffcc&fontAlignY=40)
+![Banner]([https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:2b2b2b&height=200&text=ZimEthane%20💻&fontColor=00ffcc&fontAlignY=40](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:2b2b2b,100:33ccff&text=ZimEthane%20%F0%9F%92%BB&fontColor=e6faff&fontAlignY=40&animation=fadeIn))
 
 ### 💡 Développeur curieux & passionné par l’automatisation
 
