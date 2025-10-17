@@ -2,28 +2,45 @@ name: Update Recent Projects
 
 on:
   schedule:
-    - cron: '0 12 * * *'  # Tous les jours à midi UTC
+    - cron: '0 12 * * *'  # tous les jours à midi UTC
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Get latest 4 repos
+      - name: Install jq
+        run: sudo apt-get install -y jq
+
+      - name: Fetch latest 4 repos with emoji
         run: |
           REPOS=$(curl -s "https://api.github.com/users/ZimEthane/repos?sort=updated&per_page=4" \
-            | jq -r '.[] | "| [" + .name + "](" + .html_url + ") | " + (.description // "-") + " | " + (.language // "-") + " |"')
+            | jq -r '.[] | 
+                .language as $lang |
+                ($lang | ascii_downcase) as $l |
+                "| [" + .name + "](" + .html_url + ") | " + (.description // "-") + " | " +
+                (
+                  if $l=="php" then "💻 PHP"
+                  elif $l=="java" then "☕ Java"
+                  elif $l=="shell" or $l=="bash" then "🐚⚙️ Shell"
+                  elif $l=="javascript" then "🟨 JS"
+                  elif $l=="html" then "🌐 HTML"
+                  elif $l=="c#" then "🎯 C#"
+                  else $lang // "-"
+                  end
+                ) + " |"
+              ')
 
           TABLE="| Projet | Description | Langage |\n|--------|-------------|---------|\n$REPOS"
 
-          # Remplace dans README.md entre les tags
+          # Mettre à jour le README
           sed -i "/<!-- RECENT_PROJECTS_START -->/,/<!-- RECENT_PROJECTS_END -->/c\
 <!-- RECENT_PROJECTS_START -->\n$TABLE\n<!-- RECENT_PROJECTS_END -->" README.md
 
-      - name: Commit & push
+      - name: Commit & push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
