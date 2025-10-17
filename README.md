@@ -62,14 +62,5 @@ J’aime comprendre comment les choses fonctionnent en profondeur et créer des 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:007acc,100:1a1a1a" />
 </p>
 
----
 
-## 🧰 Commandes Shell
-
-```bash
-# Compter les erreurs les plus fréquentes dans un log
-cat fichier.log | grep "Erreur" | sort | uniq -c | sort -nr | head -10
-
-# Sauvegarder et afficher simultanément une sortie
-ls | tee fichiers.txt
 
