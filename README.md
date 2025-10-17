@@ -30,9 +30,9 @@ J’aime comprendre comment les choses fonctionnent en profondeur et créer des 
   
 | Catégorie | Technologies |
 |------------|--------------|
-| 💻 **Langages** | Shell · Java · PHP · JavaScript · C# · HTML/CSS · Markdown|
+| 💻 **Langages** | Shell · Java · PHP · JavaScript · C# · HTML/CSS · Markdown · Python |
 | 🗄️ **Base de données** | MySQL · NoSQL |
-| ⚙️ **Outils** | Git · Linux · VS Code · phpMyAdmin · Xamp|
+| ⚙️ **Outils** | Git · Linux · VS Code · phpMyAdmin · Xamp |
 | 🧩 **Concepts** | Automatisation · Scripts · Pipelines · Gestion de versions |
 | 🗂️ **Autres** | Documentation claire · Organisation propre |
 
