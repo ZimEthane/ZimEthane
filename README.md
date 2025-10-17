@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est ZimEthane
+# 👋 Hey, I'm <strong>ZimEthane</strong></h3>
 
 <!-- 🌊 BANNIÈRE -->
 <p align="center">
@@ -8,12 +8,6 @@
 ---
 
 ### 💡 Développeur curieux & passionné par l’automatisation
-
-<!-- 💬 PRÉSENTATION -->
-<h3 align="center">👋 Hey, I'm <strong>ZimEthane</strong></h3>
-<p align="center">
-  <samp>Minimalist developer • Tech enthusiast • Clean code enjoyer</samp>
-</p>
 
 Je suis un **développeur en apprentissage constant**, passionné par la **programmation système**, les **scripts Shell**, et les **outils backend**.  
 J’aime comprendre comment les choses fonctionnent en profondeur et créer des solutions simples, efficaces et bien structurées.
