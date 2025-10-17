@@ -1,55 +1,25 @@
-name: Update Recent Projects
-
+name: Update README with latest projects
 on:
   schedule:
-    - cron: '0 12 * * *'  # tous les jours à midi UTC
+    - cron: '0 * * * *' # toutes les heures (modifiable)
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Install jq
-        run: sudo apt-get install -y jq
+      - name: Generate projects section
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "PROJETS_RECENTS"
+          feed_list: "https://github.com/ZimEthane"
+          max_post_count: 4
 
-      - name: Fetch latest 4 repos with emoji
-        run: |
-          REPOS=$(curl -s "https://api.github.com/users/ZimEthane/repos?sort=updated&per_page=4" \
-            | jq -r '.[] | 
-                .language as $lang |
-                ($lang | ascii_downcase) as $l |
-                "| [" + .name + "](" + .html_url + ") | " + (.description // "-") + " | " +
-                (
-                  if $l=="php" then "💻 PHP"
-                  elif $l=="java" then "☕ Java"
-                  elif $l=="shell" or $l=="bash" then "🐚⚙️ Shell"
-                  elif $l=="javascript" then "🟨 JS"
-                  elif $l=="html" then "🌐 HTML"
-                  elif $l=="c#" then "🎯 C#"
-                  else $lang // "-"
-                  end
-                ) + " |"
-              ')
-
-          TABLE="| Projet | Description | Langage |
-|--------|-------------|---------|
-$REPOS"
-
-          # Mettre à jour le README
-          # Remplace la ligne du sed par :
-sed -i "/<!-- RECENT_PROJECTS_START -->/,/<!-- RECENT_PROJECTS_END -->/c\\
-<!-- RECENT_PROJECTS_START -->\\
-$TABLE\\
-<!-- RECENT_PROJECTS_END -->" README.md
-
-
-      - name: Commit & push changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "🔄 Mise à jour automatique des projets récents" || echo "Pas de changements"
-          git push
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "README.md"
+          message: "🔄 mise à jour automatique des projets récents"
