@@ -18,7 +18,7 @@ Ma force : la rigueur, l’envie d’apprendre et la capacité à fournir un tra
 - 💻 Apprécie les projets bien organisés, lisibles et documentés  
 - ⚙️ Je monte en compétence sur : Shell, Java, PHP et les environnements Linux  
 - 📚 J’accorde de l’importance à la qualité du code, la lisibilité et l’automatisation  
-- 🚀 Mon objectif : devenir un développeur backend / scripting fiable et rigoureux
+- 🚀 Mon objectif : devenir un développeur full-stack / scripting fiable et rigoureux
 
 👉 **Mon portfolio :** [portfolio-ethanezimmermann.fr](https://portfolio-ethanezimmermann.fr/)
 
