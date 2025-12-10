@@ -59,10 +59,10 @@ Ma force : la rigueur, l’envie d’apprendre et la capacité à fournir un tra
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZimEthane&repo=Microsphere&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZimEthane&repo=holbertonschool-low_level_programming&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZimEthane&repo=AP4-Amset&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZimEthane&repo=AP3-Amset&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/pin/?username=ZimEthane&repo=Microsphere&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/pin/?username=ZimEthane&repo=holbertonschool-low_level_programming&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/pin/?username=ZimEthane&repo=AP4-Amset&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/pin/?username=ZimEthane&repo=AP3-Amset&theme=tokyonight" />
 
 </p>
 
@@ -71,9 +71,10 @@ Ma force : la rigueur, l’envie d’apprendre et la capacité à fournir un tra
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZimEthane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00aaff&icon_color=00aaff&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZimEthane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00aaff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-git-masterorg.vercel.app/api?username=ZimEthane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00aaff&icon_color=00aaff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=ZimEthane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00aaff&text_color=c9d1d9"/>
 </div>
+
 
 ---
 
