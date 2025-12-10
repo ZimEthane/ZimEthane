@@ -57,14 +57,11 @@ Ma force : la rigueur, l’envie d’apprendre et la capacité à fournir un tra
 
 ## 📂 Quelques projets
 
-<p align="center">
+- [Microsphere](https://github.com/ZimEthane/Microsphere) ![Repo size](https://img.shields.io/github/repo-size/ZimEthane/Microsphere?color=007acc)
+- [holbertonschool-low_level_programming](https://github.com/ZimEthane/holbertonschool-low_level_programming) ![Repo size](https://img.shields.io/github/repo-size/ZimEthane/holbertonschool-low_level_programming?color=007acc)
+- [AP4-Amset](https://github.com/ZimEthane/AP4-Amset) ![Repo size](https://img.shields.io/github/repo-size/ZimEthane/AP4-Amset?color=007acc)
+- [AP3-Amset](https://github.com/ZimEthane/AP3-Amset) ![Repo size](https://img.shields.io/github/repo-size/ZimEthane/AP3-Amset?color=007acc)
 
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/pin/?username=ZimEthane&repo=Microsphere&theme=tokyonight" />
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/pin/?username=ZimEthane&repo=holbertonschool-low_level_programming&theme=tokyonight" />
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/pin/?username=ZimEthane&repo=AP4-Amset&theme=tokyonight" />
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/pin/?username=ZimEthane&repo=AP3-Amset&theme=tokyonight" />
-
-</p>
 
 ---
 
