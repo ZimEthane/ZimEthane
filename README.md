@@ -59,33 +59,29 @@ Ma force : la rigueur, l’envie d’apprendre et la capacité à fournir un tra
 
 <p align="center">
 
-  <!-- Microsphere -->
-  <a href="https://github.com/ZimEthane/Microsphere" target="_blank">
-    <img src="https://img.shields.io/github/stars/ZimEthane/Microsphere?style=for-the-badge&color=00aaff&logo=github&label=Stars" alt="Microsphere Stars"/>
-    <img src="https://img.shields.io/github/forks/ZimEthane/Microsphere?style=for-the-badge&color=00aaff&logo=github&label=Forks" alt="Microsphere Forks"/>
-    <img src="https://img.shields.io/github/last-commit/ZimEthane/Microsphere?style=for-the-badge&color=00aaff&label=Dernière MàJ" alt="Microsphere Last Update"/>
-  </a>
-  
-  <!-- Low Level Programming -->
-  <a href="https://github.com/ZimEthane/holbertonschool-low_level_programming" target="_blank">
-    <img src="https://img.shields.io/github/stars/ZimEthane/holbertonschool-low_level_programming?style=for-the-badge&color=00aaff&logo=github&label=Stars" alt="Low Level Programming Stars"/>
-    <img src="https://img.shields.io/github/forks/ZimEthane/holbertonschool-low_level_programming?style=for-the-badge&color=00aaff&logo=github&label=Forks" alt="Low Level Programming Forks"/>
-    <img src="https://img.shields.io/github/last-commit/ZimEthane/holbertonschool-low_level_programming?style=for-the-badge&color=00aaff&label=Dernière MàJ" alt="Low Level Programming Last Update"/>
-  </a>
+<!-- Microsphere -->
+<a href="https://github.com/ZimEthane/Microsphere" target="_blank">
+  <img src="https://img.shields.io/badge/Microsphere-Shell-blue?style=for-the-badge&logo=github" alt="Microsphere"/>
+  <img src="https://img.shields.io/github/stars/ZimEthane/Microsphere?style=for-the-badge&color=00aaff" alt="Stars"/>
+</a>
 
-  <!-- AP4-Amset -->
-  <a href="https://github.com/ZimEthane/AP4-Amset" target="_blank">
-    <img src="https://img.shields.io/github/stars/ZimEthane/AP4-Amset?style=for-the-badge&color=00aaff&logo=github&label=Stars" alt="AP4-Amset Stars"/>
-    <img src="https://img.shields.io/github/forks/ZimEthane/AP4-Amset?style=for-the-badge&color=00aaff&logo=github&label=Forks" alt="AP4-Amset Forks"/>
-    <img src="https://img.shields.io/github/last-commit/ZimEthane/AP4-Amset?style=for-the-badge&color=00aaff&label=Dernière MàJ" alt="AP4-Amset Last Update"/>
-  </a>
+<!-- Low Level Programming -->
+<a href="https://github.com/ZimEthane/holbertonschool-low_level_programming" target="_blank">
+  <img src="https://img.shields.io/badge/Low_Level_Programming-C-blue?style=for-the-badge&logo=github" alt="Low Level Programming"/>
+  <img src="https://img.shields.io/github/stars/ZimEthane/holbertonschool-low_level_programming?style=for-the-badge&color=00aaff" alt="Stars"/>
+</a>
 
-  <!-- AP3-Amset -->
-  <a href="https://github.com/ZimEthane/AP3-Amset" target="_blank">
-    <img src="https://img.shields.io/github/stars/ZimEthane/AP3-Amset?style=for-the-badge&color=00aaff&logo=github&label=Stars" alt="AP3-Amset Stars"/>
-    <img src="https://img.shields.io/github/forks/ZimEthane/AP3-Amset?style=for-the-badge&color=00aaff&logo=github&label=Forks" alt="AP3-Amset Forks"/>
-    <img src="https://img.shields.io/github/last-commit/ZimEthane/AP3-Amset?style=for-the-badge&color=00aaff&label=Dernière MàJ" alt="AP3-Amset Last Update"/>
-  </a>
+<!-- AP4-Amset -->
+<a href="https://github.com/ZimEthane/AP4-Amset" target="_blank">
+  <img src="https://img.shields.io/badge/AP4-Amset-PHP-blue?style=for-the-badge&logo=github" alt="AP4-Amset"/>
+  <img src="https://img.shields.io/github/stars/ZimEthane/AP4-Amset?style=for-the-badge&color=00aaff" alt="Stars"/>
+</a>
+
+<!-- AP3-Amset -->
+<a href="https://github.com/ZimEthane/AP3-Amset" target="_blank">
+  <img src="https://img.shields.io/badge/AP3-Amset-PHP-blue?style=for-the-badge&logo=github" alt="AP3-Amset"/>
+  <img src="https://img.shields.io/github/stars/ZimEthane/AP3-Amset?style=for-the-badge&color=00aaff" alt="Stars"/>
+</a>
 
 </p>
 
@@ -93,22 +89,13 @@ Ma force : la rigueur, l’envie d’apprendre et la capacité à fournir un tra
 
 ## 📊 Statistiques GitHub
 
-<div align="center">
+<p align="center">
 
-<!-- Activité et followers -->
-<img src="https://img.shields.io/github/commit-activity/m/ZimEthane?color=00aaff&style=for-the-badge&label=Commits" alt="Commits"/>
-<img src="https://img.shields.io/github/forks/ZimEthane?color=00aaff&style=for-the-badge" alt="Forks"/>
-<img src="https://img.shields.io/github/stars/ZimEthane?color=00aaff&style=for-the-badge" alt="Stars"/>
-<img src="https://img.shields.io/github/issues/ZimEthane?color=00aaff&style=for-the-badge" alt="Issues"/>
-<img src="https://img.shields.io/github/followers/ZimEthane?color=00aaff&style=for-the-badge&label=Followers" alt="Followers"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZimEthane&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZimEthane&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br>
+</p>
 
-<!-- Langages principaux -->
-<img src="https://img.shields.io/github/languages/top/ZimEthane?color=00aaff&style=for-the-badge&label=Top%20Lang" alt="Top Languages"/>
-<img src="https://img.shields.io/github/languages/count/ZimEthane?color=00aaff&style=for-the-badge&label=Nombre%20Langages" alt="Nombre de Langages"/>
-
-</div>
 
 ---
 
