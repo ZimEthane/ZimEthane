@@ -1,66 +1,83 @@
-
 <!-- 🌊 BANNIÈRE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1a1a,100:007acc&text=ZimEthane%20💻&fontColor=ffffff&fontAlignY=40&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1a1a,100:007acc&text=ZimEthane%20💻&fontColor=ffffff&fontAlignY=40&fontSize=50&animation=fadeIn"/>
 </p>
 
----
-# 👋 Hey, I'm <strong>ZimEthane</strong></h3>
+<h1 align="center">👋 Hey, je suis <strong>ZimEthane</strong></h1>
 
-### 💡 Développeur curieux & passionné par l’automatisation
+### 💡 Développeur en formation — Scripting & Backend
 
-Je suis un **développeur en apprentissage constant**, passionné par la **programmation système**, les **scripts Shell**, et les **outils backend**.  
-J’aime comprendre comment les choses fonctionnent en profondeur et créer des solutions simples, efficaces et bien structurées.
+Je suis un développeur en formation, titulaire d’un **BTS SIO — option SLAM**, et actuellement étudiant à **Holberton School**.  
+Plutôt qu’une passion pour toute l’actualité tech, ce qui m’intéresse réellement, c’est de **comprendre ce que je code**, d’apprendre **à mon rythme**, et de **construire des solutions claires, efficaces et bien structurées**.  
+Ma force : la rigueur, l’envie d’apprendre et la capacité à fournir un travail soigné — même sur des projets modestes.
 
 ---
 
 ## 🧠 À propos de moi
 
-- 💻 J’aime travailler sur des projets clairs et bien documentés  
-- ⚙️ J’apprends à maîtriser le Shell, Java, PHP, et les outils Linux  
-- 📚 Je m’intéresse à la qualité du code, à la lisibilité et à l’automatisation  
-- 🚀 Mon objectif : progresser chaque jour dans le développement backend & scripting
+- 💻 Apprécie les projets bien organisés, lisibles et documentés  
+- ⚙️ Je monte en compétence sur : Shell, Java, PHP et les environnements Linux  
+- 📚 J’accorde de l’importance à la qualité du code, la lisibilité et l’automatisation  
+- 🚀 Mon objectif : devenir un développeur backend / scripting fiable et rigoureux
 
-[💻PortFolio](https://portfolio-ethanezimmermann.fr/)
+👉 **Mon portfolio :** [portfolio-ethanezimmermann.fr](https://portfolio-ethanezimmermann.fr/)
 
 ---
 
 ## 🛠️ Stack & Outils
-<p align="center">
-  
-| Catégorie | Technologies |
-|------------|--------------|
-| 💻 **Langages** | Shell · Java · PHP · JavaScript · C# · HTML/CSS · Markdown · Python |
-| 🗄️ **Base de données** | MySQL · NoSQL |
-| ⚙️ **Outils** | Git · Linux · VS Code · phpMyAdmin · Xamp · WampServer|
-| 🧩 **Concepts** | Automatisation · Scripts · Pipelines · Gestion de versions |
-| 🗂️ **Autres** | Documentation claire · Organisation propre |
 
-</p>
+<table align="center">
+  <tr>
+    <th>Catégorie</th>
+    <th>Technologies / Outils</th>
+  </tr>
+  <tr>
+    <td>💻 <strong>Langages</strong></td>
+    <td>Shell · Java · PHP · JavaScript · C# · HTML/CSS · Markdown · Python</td>
+  </tr>
+  <tr>
+    <td>🗄️ <strong>Bases de données</strong></td>
+    <td>MySQL · NoSQL</td>
+  </tr>
+  <tr>
+    <td>⚙️ <strong>Outils & Environnements</strong></td>
+    <td>Git · Linux · VS Code · phpMyAdmin · XAMPP · WampServer</td>
+  </tr>
+  <tr>
+    <td>🧩 <strong>Concepts</strong></td>
+    <td>Automatisation · Scripts · Pipelines · Gestion de version</td>
+  </tr>
+  <tr>
+    <td>🗂️ <strong>Qualités</strong></td>
+    <td>Documentation claire · Code lisible · Organisation structurée</td>
+  </tr>
+</table>
 
 ---
 
-## 📂 Projets Favoris
+## 📂 Quelques projets
 
-![ZimEthane's GitHub Projects](https://github-readme-stats.vercel.app/api/pin/?username=ZimEthane&repo=Microsphere&theme=tokyonight)
-![ZimEthane's GitHub Projects](https://github-readme-stats.vercel.app/api/pin/?username=ZimEthane&repo=holbertonschool-low_level_programming&theme=tokyonight)
-![ZimEthane's GitHub Projects](https://github-readme-stats.vercel.app/api/pin/?username=ZimEthane&repo=AP4-Amset&theme=tokyonight)
-![ZimEthane's GitHub Projects](https://github-readme-stats.vercel.app/api/pin/?username=ZimEthane&repo=AP3-Amset&theme=tokyonight)
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZimEthane&repo=Microsphere&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZimEthane&repo=holbertonschool-low_level_programming&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZimEthane&repo=AP4-Amset&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZimEthane&repo=AP3-Amset&theme=tokyonight" />
+
+</p>
 
 ---
 
 ## 📊 Statistiques GitHub
 
-<!-- 📊 GITHUB STATS -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZimEthane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00aaff&icon_color=00aaff&text_color=c9d1d9"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZimEthane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00aaff&text_color=c9d1d9"/>
 </div>
 
+---
+
 <!-- ⚙️ FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:007acc,100:1a1a1a" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:007acc,100:1a1a1a"/>
 </p>
-
-
-
