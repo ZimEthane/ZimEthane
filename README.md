@@ -68,9 +68,22 @@ Ma force : la rigueur, l’envie d’apprendre et la capacité à fournir un tra
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterorg.vercel.app/api?username=ZimEthane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00aaff&icon_color=00aaff&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=ZimEthane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00aaff&text_color=c9d1d9"/>
+
+<!-- Commits, Repos, Followers -->
+<img src="https://img.shields.io/github/commit-activity/m/ZimEthane?color=00aaff&style=for-the-badge&label=Commits" alt="Commits"/>
+<img src="https://img.shields.io/github/forks/ZimEthane?color=00aaff&style=for-the-badge" alt="Forks"/>
+<img src="https://img.shields.io/github/stars/ZimEthane?color=00aaff&style=for-the-badge" alt="Stars"/>
+<img src="https://img.shields.io/github/issues/ZimEthane?color=00aaff&style=for-the-badge" alt="Issues"/>
+<img src="https://img.shields.io/github/followers/ZimEthane?color=00aaff&style=for-the-badge&label=Followers" alt="Followers"/>
+
+<br>
+
+<!-- Langages principaux -->
+<img src="https://img.shields.io/github/languages/top/ZimEthane?color=00aaff&style=for-the-badge&label=Top%20Lang" alt="Top Languages"/>
+<img src="https://img.shields.io/github/languages/count/ZimEthane?color=00aaff&style=for-the-badge&label=Langages" alt="Nombre de Langages"/>
+
 </div>
+
 
 
 ---
