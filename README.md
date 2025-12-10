@@ -55,50 +55,6 @@ Ma force : la rigueur, l’envie d’apprendre et la capacité à fournir un tra
 
 ---
 
-## 📂 Projets récents & favoris
-
-<p align="center">
-
-<!-- Microsphere -->
-<a href="https://github.com/ZimEthane/Microsphere" target="_blank">
-  <img src="https://img.shields.io/badge/Microsphere-Shell-blue?style=for-the-badge&logo=github" alt="Microsphere"/>
-  <img src="https://img.shields.io/github/stars/ZimEthane/Microsphere?style=for-the-badge&color=00aaff" alt="Stars"/>
-</a>
-
-<!-- Low Level Programming -->
-<a href="https://github.com/ZimEthane/holbertonschool-low_level_programming" target="_blank">
-  <img src="https://img.shields.io/badge/Low_Level_Programming-C-blue?style=for-the-badge&logo=github" alt="Low Level Programming"/>
-  <img src="https://img.shields.io/github/stars/ZimEthane/holbertonschool-low_level_programming?style=for-the-badge&color=00aaff" alt="Stars"/>
-</a>
-
-<!-- AP4-Amset -->
-<a href="https://github.com/ZimEthane/AP4-Amset" target="_blank">
-  <img src="https://img.shields.io/badge/AP4-Amset-PHP-blue?style=for-the-badge&logo=github" alt="AP4-Amset"/>
-  <img src="https://img.shields.io/github/stars/ZimEthane/AP4-Amset?style=for-the-badge&color=00aaff" alt="Stars"/>
-</a>
-
-<!-- AP3-Amset -->
-<a href="https://github.com/ZimEthane/AP3-Amset" target="_blank">
-  <img src="https://img.shields.io/badge/AP3-Amset-PHP-blue?style=for-the-badge&logo=github" alt="AP3-Amset"/>
-  <img src="https://img.shields.io/github/stars/ZimEthane/AP3-Amset?style=for-the-badge&color=00aaff" alt="Stars"/>
-</a>
-
-</p>
-
----
-
-## 📊 Statistiques GitHub
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZimEthane&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZimEthane&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
----
-
 <!-- ⚙️ FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:007acc,100:1a1a1a"/>
