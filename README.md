@@ -55,6 +55,9 @@ Ma force : la rigueur, l’envie d’apprendre et la capacité à fournir un tra
 
 ---
 
+
+<img src="https://www.credly.com/badges/9022a401-279b-4a45-af08-542e24ebebd0"/>
+
 <!-- ⚙️ FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:007acc,100:1a1a1a"/>
