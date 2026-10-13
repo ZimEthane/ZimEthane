@@ -82,12 +82,6 @@ Ma force : la rigueur, l'envie d'apprendre et un travail soigné, même sur des 
   <img src="assets/tetris-code.svg" alt="Animation façon Tetris : des lignes de code tombent et s'imbriquent" width="700" />
 </p>
 
-## 😄 Une blague de dev
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Blague de développeur" />
-</p>
-
 ---
 
 <p align="center">
