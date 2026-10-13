@@ -76,10 +76,10 @@ Ma force : la rigueur, l'envie d'apprendre et un travail soigné, même sur des 
   </tr>
 </table>
 
-## 🏅 Certification
+## 🎮 Mon code, bloc par bloc
 
 <p align="center">
-  <a href="https://www.credly.com/badges/9022a401-279b-4a45-af08-542e24ebebd0">Voir mon badge Credly ↗</a>
+  <img src="assets/tetris-code.svg" alt="Animation façon Tetris : des lignes de code tombent et s'imbriquent" width="700" />
 </p>
 
 ## 😄 Une blague de dev
