@@ -76,6 +76,12 @@ Ma force : la rigueur, l'envie d'apprendre et un travail soigné, même sur des 
   </tr>
 </table>
 
+## 🎮 Mon code, bloc par bloc
+
+<p align="center">
+  <img src="assets/tetris-code.svg" alt="Animation façon Tetris : des lignes de code tombent et s'imbriquent" width="700" />
+</p>
+
 ## 🐛 Chasse aux bugs
 
 <p align="center">
