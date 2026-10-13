@@ -76,10 +76,16 @@ Ma force : la rigueur, l'envie d'apprendre et un travail soigné, même sur des 
   </tr>
 </table>
 
-## 🎮 Mon code, bloc par bloc
+## 🐛 Chasse aux bugs
 
 <p align="center">
-  <img src="assets/tetris-code.svg" alt="Animation façon Tetris : des lignes de code tombent et s'imbriquent" width="700" />
+  <img src="assets/cursor-bugs.svg" alt="Animation : un curseur de terminal parcourt des lignes de code et mange les bugs" width="700" />
+</p>
+
+## 🤖 Dans le labyrinthe du code
+
+<p align="center">
+  <img src="assets/robot-maze.svg" alt="Animation : un petit robot traverse un labyrinthe de code et ramasse la syntaxe" width="700" />
 </p>
 
 ---
